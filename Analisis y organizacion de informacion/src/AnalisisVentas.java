@@ -16,6 +16,7 @@ class Venta {
         return fecha;
     }
 
+
     public double getMonto() {
         return monto;
     }
