@@ -59,11 +59,13 @@ public class InterfazUsuario extends JFrame {
             }
         });
 
+
         add(textField);
         add(addButton);
         add(modifyButton);
         add(deleteButton);
         add(new JScrollPane(table));
+
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800, 600);
