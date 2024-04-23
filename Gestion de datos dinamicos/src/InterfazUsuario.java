@@ -76,5 +76,6 @@ public class InterfazUsuario extends JFrame {
                 new InterfazUsuario().setVisible(true);
             }
         });
+
     }
 }
